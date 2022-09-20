@@ -1,3 +1,3 @@
-# Test Repo
+# Dummy Repo
 
 This is only a dummy repo
